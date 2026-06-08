@@ -107,7 +107,7 @@ I'm actively exploring and expanding my expertise in:
 I'm always open to collaborating on exciting data science and AI projects!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-sayed-salih-0440a128a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 📧 **Email** - Feel free to reach out with collaboration ideas
+- 📧 **Email** - ahmeds.space940@gmail.com
 
 ---
 
